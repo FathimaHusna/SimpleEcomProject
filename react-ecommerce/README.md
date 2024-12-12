@@ -35,13 +35,6 @@ npm run dev
 - No backend is required for this application.
 - Product data is hardcoded in `products.js`.
 
- ## screenshots
-![App Screenshot](react-ecommerce/src/screenshots/u2.png)
-
-
-![Alt text](react-ecommerce/src/screenshots/u2.png)
-
-![Alt text](react-ecommerce/src/screenshots/u13.png)
 
 
 
