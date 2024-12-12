@@ -36,7 +36,8 @@ npm run dev
 - Product data is hardcoded in `products.js`.
 
  ## screenshots
-![Alt text](react-ecommerce/src/screenshots/u1.png)
+![App Screenshot](react-ecommerce/src/screenshots/u2.png)
+
 
 ![Alt text](react-ecommerce/src/screenshots/u2.png)
 
